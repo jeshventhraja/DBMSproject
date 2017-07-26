@@ -1,0 +1,5 @@
+use
+	This command is used to switch to another data
+	
+	Usage:
+		use <database-name>	--Switches the current database to the new specified <database-name>

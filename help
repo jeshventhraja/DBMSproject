@@ -1,0 +1,12 @@
+
+The following commands can be used on DolphinDB v1.0.1
+
+	-create			--To create databases/tables
+	-insert			--To add columns to the specified table
+	-show			--To display database or table, list of databases or tables
+	-use			--To switch and start operating on another database
+	-add			--To add records the database
+	-delete			--To delete database, tables, record or columns
+	-exit			--To logout from the current account
+
+Type: help <command-name> to get further help on the above commands

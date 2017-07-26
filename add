@@ -1,0 +1,6 @@
+add
+	This command is used to add records to a table
+	
+	Usage:
+		add record <table-name>	--Adds a record to specified table and asks the user for data
+		add record <table-name> null --Adds a null-valued record to the specified table

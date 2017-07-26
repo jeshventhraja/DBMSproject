@@ -1,0 +1,7 @@
+delete	
+	This command is used to delete records and tables
+	
+	Usage:
+		delete <table-name>	--Delete the tables specified by the name
+		delete record <table-name>	--Deletes the record from the table
+		delete column <table-name> <column-name>	--Deletes the corresponding column from the table

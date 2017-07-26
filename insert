@@ -1,0 +1,5 @@
+insert
+	This command is used to add columns to a table
+	
+	Usage:
+		insert column <table-name> <type> <column-name>	--Used to insert columns to a table

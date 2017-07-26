@@ -1,0 +1,6 @@
+create	
+	This command is to let Admin Users create database or tables
+	
+	Usage:
+		create database <database-name>	--Creates a new database
+		create table <table-name> --Creates a new table under the current database

@@ -1,0 +1,8 @@
+show	
+	This command shows the details of the present database or lists the databases or even shows the details of chosen table
+	
+	Usage:
+		show	--Details of the current database
+		show databases	--Lists all the Databases
+		show tables	--Lists all the tables belonging to the current database
+		show table <table-name>	--Displays data of <table-name>
